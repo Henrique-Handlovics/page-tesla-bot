@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Inter", sans-serif;
+    color: #ffffff;
+}
+
+h1,h2,h3,h4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+.container{
+    width: 100%;
+    max-width: 169.6rem;
+    margin: 0 auto;
+}
+
+button{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+img{
+    display: block;
+    max-width: 100%;
+}
