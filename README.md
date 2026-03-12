@@ -22,6 +22,5 @@ Projeto aplicado com base nos ensinamentos do **CodeBoost**.
 
 <hr>
 
-🔗 Repositório:  
-https://github.com/Henrique-Handlovics/page-tesla-bot <br>
+🔗 Repositório: https://github.com/Henrique-Handlovics/page-tesla-bot <br>
 📂 Projeto: https://henrique-handlovics.github.io/page-tesla-bot/
